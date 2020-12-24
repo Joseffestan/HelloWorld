@@ -1,5 +1,5 @@
-// LeetCode.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
-//
+// LeetCode.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
+//abcdefg
 
 #include "stdafx.h"
 #include <iostream>
